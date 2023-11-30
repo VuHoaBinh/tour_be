@@ -15,14 +15,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.com/nguyenhoang03082000/demo.git
+git remote add origin https://github.com/VuHoaBinh/tour_be.git
 git branch -M main
-git push -uf origin main
+git push -f origin main
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://gitlab.com/nguyenhoang03082000/demo/-/settings/integrations)
+- [ ] [Set up project integrations](https://github.com/VuHoaBinh/tour_be.git-/settings/integrations)
 
 ## Collaborate with your team
 
